@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nandhakumar N</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nandhakumarnainachalam15" alt="nandhakumarnainachalam15" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
 </p>
-
-<img align="right" width="400" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NiNTh6ajdiM3VpbTNrenBpbzRuZjRjZ3h3c2VzNzZzNnZuM3F2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @   progue Technologies** _(june 2022 – Present)_
 
@@ -70,6 +63,6 @@
   <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhakumarnainachalam15&show_icons=true&locale=en&layout=compact" alt="nandhakumarnainachalam15" />
+
 
 ![Nandhakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandhakumarnainachalam15&theme=dark&show_icons=true&&hide=issues,contribs)
